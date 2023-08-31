@@ -1,0 +1,1 @@
+var mensagem = "Calculadora muito pica"
